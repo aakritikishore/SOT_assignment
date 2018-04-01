@@ -1,0 +1,61 @@
+table {
+   table-layout:fixed; 
+}
+table td{
+    word-wrap: normal;
+    word-break: break-all;
+}
+
+table th{
+    color: #285ec1;
+}
+table .th-srno{
+    width: 4%;
+}
+
+table .th-fname{
+    width: 6%;
+}
+
+table .th-lname{
+    width: 7%;
+}
+table .th-gender{
+    width: 6%;
+}
+
+table .th-email{
+    width: 15%;
+}
+
+table .th-address{
+    width: 16%;
+}
+
+table .th-phone{
+    width: 10%;
+}
+
+table .th-department{
+    width: 17%;
+}
+
+table .th-designation{
+    width: 15%;
+}
+
+table .th-action{
+    width:4%;
+}
+
+table .th-dept{
+    width:20%
+}
+
+table .th-name{
+    width:14%
+}
+
+table .th-contact{
+    width:25%
+}
